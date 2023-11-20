@@ -4,5 +4,5 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Оценка объектов недвижимости](https://github.com/SDorovskikh/ydx_practicum/tree/main/real_estate) | Выбор лучшей модели для увеличения <br/>показателей технологического процесса <br/>обогащения золота | python, pandas, numpy, scipy, sklearn, matplotlib       |
+| 1.   | [Оценка объектов недвижимости](https://github.com/SDorovskikh/ydx_practicum/tree/main/real_estate) | Выбор лучшей модели для увеличения <br/>показателей технологического процесса <br/>обогащения золота | python, pandas, numpy, scipy.stats, matplotlib      |
 | 2.   | [Анализ продаж компьютерных игр](https://github.com/SDorovskikh/ydx_practicum/tree/main/real_estate) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
